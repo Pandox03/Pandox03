@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Imad Guidouh
-- 👀 I’m interested in 
+- 👋 Hi, I’m @Pandox03 
 - 🌱 I’m currently learning full stack developement
-- 💞️ I’m looking to collaborate on  
-- 📫 How to reach me email:imadguidouh@gmail.com , twiter:@GuidouhImad
+- 📫 How to reach me email: imadguidouh@gmail.com 
 - 
 
 <!---
