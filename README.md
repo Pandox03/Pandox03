@@ -15,9 +15,14 @@
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
           
- 
+ <br/>
 
-          
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" style="vertical-align:top; margin:4px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px"/>
+                                      
 </p>
 
 
