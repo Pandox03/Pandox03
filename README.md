@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pandox03 
-- 🌱 I’m currently learning full stack developement
-- 📫 How to reach me email: imadguidouh@gmail.com 
+- 🌱 I’m a full stack developer 
+- 📫 How to reach me email: imadguidouh@gmail.com | linkedIn: https://www.linkedin.com/in/imad-guidouh/
 - 
 
 <!---
