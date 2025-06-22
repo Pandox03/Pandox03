@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" style="vertical-align:top; margin:4px"/>
           
  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="40" style="vertical-align:top; margin:4px" />
+          
           
  <br/>
 
@@ -37,6 +39,10 @@
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="40" style="vertical-align:top; margin:4px"/>
+
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
+          
           
                                                
 </p>
