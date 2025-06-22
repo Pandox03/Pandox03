@@ -14,6 +14,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C++/C++-original-wordmark.svg" height="40" style="vertical-align:top; margin:4px" />
+ 
           
  <br/>
 
